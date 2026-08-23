@@ -14,19 +14,23 @@ This organization is designed to preserve a clear record of how projects evolve 
 
 
 
-| Principle | Practice |
+**Privacy by default.** Repositories remain private unless their visibility is explicitly reviewed and approved.
 
-|---|---|
 
-| Privacy by default | Repositories remain private unless their visibility is explicitly reviewed and approved. |
 
-| Traceable work | Commits, pull requests, and project boards record the actual state of work. |
+**Traceable work.** Commits, pull requests, and project boards record the actual state of work.
 
-| Transparent authorship | Contributions are attributed through repository history and reviewed project records. |
 
-| Controlled collaboration | Access is granted through subject-specific teams and the minimum permissions needed. |
 
-| Sustainable learning | Each discipline can use its own repository, team, documentation, and automation without exposing unrelated work. |
+**Transparent authorship.** Contributions are attributed through repository history and reviewed project records.
+
+
+
+**Controlled collaboration.** Access is granted through subject-specific teams and the minimum permissions needed.
+
+
+
+**Sustainable learning.** Each discipline can use its own repository, team, documentation, and automation without exposing unrelated work.
 
 
 
