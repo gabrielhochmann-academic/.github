@@ -1,26 +1,18 @@
-# Security Policy
+# Política de Segurança
 
+## Escopo
 
+Esta organização armazena trabalhos acadêmicos e colaborativos. Trate **credenciais, configurações de acesso, informações pessoais, trabalhos acadêmicos não publicados e documentos internos como informações sensíveis**.
 
-## Scope
+## Comunicação de preocupações
 
+Não abra uma *issue* pública contendo **tokens, links privados, informações pessoais, detalhes de vulnerabilidades ou trabalhos acadêmicos confidenciais**. Utilize um canal privado já existente do projeto para entrar em contato com o proprietário do repositório ou com o responsável pelo projeto.
 
+Se uma credencial for exposta, **revogue-a ou altere-a imediatamente** antes de compartilhar qualquer detalhe para diagnóstico.
 
-This organization stores academic and collaborative work. Treat credentials, access configuration, personal information, unpublished coursework, and internal documents as sensitive.
+## Práticas básicas para contribuições seguras
 
-
-
-## Reporting a concern
-
-
-
-Do not open a public issue containing a token, private link, personal information, exploit details, or confidential coursework. Use an existing private project channel to contact the repository owner or project lead. If a credential was exposed, revoke or rotate it immediately before sharing diagnostic details.
-
-
-
-## Secure contribution baseline
-
-
-
-Use repository secrets for automation credentials, keep workflow permissions minimal, and pin third-party GitHub Actions to full commit SHAs where required. Do not upload credentials to source control, issues, pull requests, or documentation.
-
+- Utilize **Secrets do repositório** para credenciais usadas em automações.
+- Mantenha as **permissões dos workflows no nível mínimo necessário**.
+- Quando exigido, fixe as **GitHub Actions de terceiros em SHAs completos de commit**.
+- **Nunca envie credenciais** para o controle de versão, *issues*, *pull requests* ou documentação.
