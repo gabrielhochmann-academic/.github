@@ -2,7 +2,7 @@
 
 [Português](README.md) | [English](README.en.md)
 
-This organization hosts coursework, technical studies, and collaborative projects developed during undergraduate studies.
+This organization hosts coursework, technical studies, and collaborative projects developed during the Computer Science undergraduate program at the State University of Western Paraná (Unioeste).
 
 ## Principles
 
