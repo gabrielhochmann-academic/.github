@@ -2,7 +2,7 @@
 
 [Português](README.md) | [English](README.en.md)
 
-Organização destinada a trabalhos de disciplinas, estudos técnicos e projetos colaborativos desenvolvidos durante a graduação.
+Organização destinada a trabalhos de disciplinas, estudos técnicos e projetos colaborativos desenvolvidos durante a graduação em Ciência da Computação na Universidade Estadual do Oeste do Paraná (Unioeste).
 
 ## Princípios
 
