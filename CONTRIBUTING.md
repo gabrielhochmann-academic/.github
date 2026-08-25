@@ -1,42 +1,17 @@
-# Contributing
+# Como contribuir
 
+## Antes de começar
 
+Leia o README do repositório e confirme que a alteração pertence ao projeto. Não publique credenciais, dados pessoais, documentos institucionais internos, materiais sem autorização ou conteúdo cuja autoria não possa ser atribuída corretamente.
 
-## Working principles
+## Alterações e registros
 
+Crie uma ramificação quando a alteração não for pequena. Use nomes e mensagens de registro curtos, descritivos e fiéis ao que foi realizado. Não utilize registros, tarefas ou solicitações de alteração para atribuir autoria, revisão ou trabalho que não ocorreu.
 
+## Solicitações de alteração
 
-Contributions should preserve privacy, traceability, and transparent authorship. Repositories are private by default. Do not add credentials, personal data, internal institutional material, or work whose authorship cannot be represented accurately.
+Abra uma solicitação de alteração quando a mudança precisar de revisão. Explique o objetivo, a documentação modificada e os testes executados, quando aplicável. Inclua fontes e licenças ao incorporar material de terceiros.
 
+## Revisão
 
-
-## Before you start
-
-
-
-Use the repository issue tracker and project board for work that belongs to the project. When a Jira project is connected, reference the relevant issue key only when it truthfully describes the work.
-
-
-
-## Branches and commits
-
-
-
-Create a focused branch from the current default branch. Use a short, descriptive branch name and a concise commit message that describes the actual change. Do not use commits, issue keys, branches, or pull requests to imply work, review, or authorship that did not happen.
-
-
-
-## Pull requests
-
-
-
-Open a pull request for changes that merit review. Keep it scoped, explain the evidence or checks performed, and identify linked work items when applicable. Never include secrets, tokens, private personal data, or copied third-party work without a clear source and license review.
-
-
-
-## Review and merge
-
-
-
-Reviewers should verify scope, documentation, tests where relevant, and the accuracy of authorship statements. Merge only after the repository-specific checks and review expectations are satisfied.
-
+Antes de integrar uma alteração, verifique o escopo, a documentação, os testes relevantes e a atribuição correta das contribuições.

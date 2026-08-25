@@ -1,32 +1,27 @@
 ---
-
-name: Task
-
-about: Plan a scoped and traceable unit of work
-
+name: Tarefa
+about: Registrar uma atividade com objetivo e resultado verificável
+title: ""
+labels: ""
+assignees: ""
 ---
 
+## Objetivo
 
+<!-- Descreva o resultado esperado. -->
 
-## Goal
+## Contexto
 
+<!-- Explique por que esta tarefa é necessária. -->
 
+## Critérios de conclusão
 
-## Context
+- [ ]
 
+## Evidências ou referências
 
+<!-- Inclua links, resultados de testes ou materiais de apoio quando houver. -->
 
-## Acceptance criteria
+## Privacidade e autoria
 
-
-
-## Evidence or references
-
-
-
-## Privacy and authorship check
-
-
-
-State why this issue contains no credentials, personal data, or unpublished material that should remain outside GitHub. Confirm that any linked work item accurately represents the proposed work.
-
+<!-- Confirme que a tarefa não contém credenciais, dados pessoais ou material não publicado sem autorização. -->
