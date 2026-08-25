@@ -1,5 +1,7 @@
 # Projetos Acadêmicos de Gabriel Hochmann
 
+[Português](README.md) | [English](README.en.md)
+
 Organização destinada a trabalhos de disciplinas, estudos técnicos e projetos colaborativos desenvolvidos durante a graduação.
 
 ## Princípios

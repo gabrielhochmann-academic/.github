@@ -1,5 +1,7 @@
 # Configuração da organização
 
-Este repositório reúne o perfil público da organização, os modelos de *issues* e *pull requests* e as orientações gerais de colaboração e segurança.
+[Português](README.md) | [English](README.en.md)
 
-A documentação está em português do Brasil para acompanhar o contexto acadêmico da organização.
+Este repositório reúne o perfil público da organização, os modelos de tarefas e solicitações de alteração e as orientações gerais de colaboração e segurança.
+
+O português do Brasil é o idioma principal da organização. Uma versão em inglês está disponível para visitantes externos, enquanto os modelos internos de colaboração permanecem em português.
