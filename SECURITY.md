@@ -14,5 +14,5 @@ Se uma credencial for exposta, **revogue-a ou altere-a imediatamente** antes de 
 
 - Utilize os **segredos do repositório** para credenciais usadas em automações.
 - Mantenha as **permissões dos fluxos de trabalho no nível mínimo necessário**.
-- Quando exigido, fixe ações de terceiros em identificadores completos de versão.
+- Quando exigido, fixe ações de terceiros pelo identificador SHA completo da revisão utilizada.
 - **Nunca envie credenciais** para o controle de versão, tarefas, solicitações de alteração ou documentação.
